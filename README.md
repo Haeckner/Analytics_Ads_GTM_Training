@@ -1,3 +1,3 @@
 # Analytics_Ads_GTM_Training
 
-simple website created solely for purpose of testing google ads, analytics and gtm for education
+Basic JS app developed to learn and test Google tracking tools. App is deployed here: https://haeckner.github.io/Analytics_Ads_GTM_Training/
